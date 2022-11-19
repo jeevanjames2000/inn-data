@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1260,
+          "bottomRow": 850,
           "containerStyle": "none",
           "snapRows": 76,
           "parentRowSpace": 1,
@@ -37,14 +37,14 @@
                 "parent",
                 "group"
               ],
-              "topRow": 41,
-              "bottomRow": 118,
+              "topRow": 0,
+              "bottomRow": 77,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 20.15625,
-              "leftColumn": 7,
+              "leftColumn": 0,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -488,7 +488,7 @@
               "key": "epubkoz1oa",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 59,
+              "rightColumn": 64,
               "widgetId": "yfawwbogmw",
               "containerStyle": "card",
               "isVisible": true,

@@ -18,10 +18,10 @@
   "unreadCommentThreads": 0,
   "color": "#D6D1F2",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "evaluationVersion": 2,
   "applicationVersion": 2,
