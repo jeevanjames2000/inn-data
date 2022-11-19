@@ -11,6 +11,10 @@
     {
       "id": "Page3",
       "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -18,7 +22,7 @@
   "unreadCommentThreads": 0,
   "color": "#D6D1F2",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
     "type": "FLUID"
