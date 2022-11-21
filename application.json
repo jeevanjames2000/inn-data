@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "index page",
       "isDefault": true
     },
     {
@@ -9,11 +9,11 @@
       "isDefault": false
     },
     {
-      "id": "Page2",
+      "id": "signup",
       "isDefault": false
     },
     {
-      "id": "Page3",
+      "id": "select",
       "isDefault": false
     },
     {
@@ -25,7 +25,11 @@
       "isDefault": false
     },
     {
-      "id": "Page6",
+      "id": "last",
+      "isDefault": false
+    },
+    {
+      "id": "Public.users",
       "isDefault": false
     }
   ],

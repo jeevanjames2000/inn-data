@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "index page",
+    "slug": "index-page",
     "layouts": [
       {
         "viewMode": false,
@@ -72,7 +72,7 @@
               "resetFormOnClick": false,
               "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
               "widgetName": "Button2Copy",
-              "onClick": "{{navigateTo('Page2', {},'SAME_WINDOW')}}",
+              "onClick": "{{navigateTo('sign in', {},'SAME_WINDOW')}}",
               "buttonColor": "#581c87",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
@@ -118,7 +118,7 @@
               "resetFormOnClick": false,
               "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
               "widgetName": "Button2",
-              "onClick": "{{navigateTo('Page2', {},'SAME_WINDOW')}}",
+              "onClick": "{{navigateTo('signup', {},'SAME_WINDOW')}}",
               "buttonColor": "#581c87",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
@@ -340,14 +340,15 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "index page",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "63786421f5e3fa5ce1731c04_63786421f5e3fa5ce1731c06"
