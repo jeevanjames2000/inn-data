@@ -120,6 +120,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 20.15625,
+              "dynamicTriggerPathList": [],
               "imageShape": "RECTANGLE",
               "leftColumn": 50,
               "dynamicBindingPathList": [
@@ -129,7 +130,7 @@
               ],
               "defaultImage": "https://assets.appsmith.com/widgets/default.png",
               "key": "yym72w0ub8",
-              "image": "",
+              "image": "https://i.ibb.co/Z65LPtx/IMG-1806.jpg",
               "isDeprecated": false,
               "rightColumn": 59,
               "objectFit": "cover",
@@ -140,7 +141,7 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "maxZoomLevel": 1,
-              "enableDownload": false,
+              "enableDownload": true,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "enableRotation": false
             },
