@@ -37,8 +37,9 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 19.8125,
+              "dynamicTriggerPathList": [],
               "imageShape": "RECTANGLE",
-              "leftColumn": 21,
+              "leftColumn": 30,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -46,9 +47,9 @@
               ],
               "defaultImage": "https://assets.appsmith.com/widgets/default.png",
               "key": "ka33e0gj5o",
-              "image": "",
+              "image": "https://i.ibb.co/DY9rnP8/My-project.jpg",
               "isDeprecated": false,
-              "rightColumn": 43,
+              "rightColumn": 36,
               "objectFit": "cover",
               "widgetId": "zudl7ld2t0",
               "isVisible": true,
@@ -57,7 +58,7 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "maxZoomLevel": 1,
-              "enableDownload": false,
+              "enableDownload": true,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "enableRotation": false
             },
@@ -166,7 +167,7 @@
               "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
               "widgetName": "Button1",
               "onClick": "{{Query1.run()}}",
-              "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+              "buttonColor": "#3b82f6",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
               "searchTags": [
@@ -186,11 +187,7 @@
                 }
               ],
               "leftColumn": 20,
-              "dynamicBindingPathList": [
-                {
-                  "key": "buttonColor"
-                }
-              ],
+              "dynamicBindingPathList": [],
               "text": "Search",
               "isDisabled": false,
               "key": "784shq4co1",

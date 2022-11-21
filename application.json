@@ -5,6 +5,10 @@
       "isDefault": true
     },
     {
+      "id": "sign in",
+      "isDefault": false
+    },
+    {
       "id": "Page2",
       "isDefault": false
     },
