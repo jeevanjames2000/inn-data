@@ -5,11 +5,11 @@
       "isDefault": true
     },
     {
-      "id": "sign in",
+      "id": "signup",
       "isDefault": false
     },
     {
-      "id": "signup",
+      "id": "SIGN UP",
       "isDefault": false
     },
     {
